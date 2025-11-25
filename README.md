@@ -1,4 +1,4 @@
-# Routing Algorithm to Improve Bikers's Safety
+# Routing Algorithm to Improve Biker's Safety
 
 ## Street Sexual Harassment as the motivation of this Master's Thesis 
 
